@@ -1,0 +1,1 @@
+${response.sendRedirect(createLink(controller: 'testSection', action: 'list').toString())}

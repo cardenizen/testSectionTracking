@@ -1,0 +1,34 @@
+div.appHeader {
+    background: #BFC5A5;
+    text-align:center;
+    font-size: 16pt;
+    width:100%;
+    height:70px;
+}
+div.topnav {
+    background: #BFC5A5;
+    text-align:center;
+    font-size: 16pt;
+    width:100%;
+    height:70px;
+}
+div.footer {
+    background: #F3F3F5;
+    height:20px;
+}
+
+div.footer-left {
+    background: #F3F3F5;
+    text-align:left;
+    font-size: 8pt;
+    height:20px;
+    float:left;
+}
+div.footer-right {
+    background: #F3F3F5;
+    text-align:right;
+    font-size: 8pt;
+    height:20px;
+    float:right;
+}
+
