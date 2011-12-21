@@ -1,9 +1,314 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="07f5160b-c2de-447e-a480-132954e544a9" name="Default" comment="" />
-    <ignored path="$USER_HOME_GRAILS$/" />
+    <list default="true" readonly="true" id="07f5160b-c2de-447e-a480-132954e544a9" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\TestSection.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MailGrailsPlugin$_configureMailSender_closure5_closure13.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\Config$_run_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure15.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\LoginController$_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\DataSource$_run_closure3_closure5_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\ExportGrailsPlugin$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure14_closure80.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure6_closure61.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\PersonController$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MailGrailsPlugin$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure31.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure47.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\Searchable$_run_closure2_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure36.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure4_closure58.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\BootStrap.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\PersonService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MailGrailsPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HelpBalloonsGrailsPlugin$_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\RequestmapController$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MailGrailsPlugin$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\RegisterController$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure14_closure85.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\area\County.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HibernateGrailsPlugin$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\ExportGrailsPlugin$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure13_closure77.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure38.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\RequestmapController$_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\PersonController$_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\AppConfigController$_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HomeController.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HomeController$_closure1_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\BootStrap$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure9_closure65.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure17_closure87.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HibernateGrailsPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\PersonController$_closure4_closure11.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AuthorityController$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\AppConfigController$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\Searchable$_run_closure2_closure4_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure10_closure70.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure17_closure89_closure92.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\secure\Authority$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\BuildConfig$_run_closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\RegisterController$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure2_closure50.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure10_closure67.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure18_closure94.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure14_closure82.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MnRoadTagLib.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\RequestmapController$_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure14_closure78.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\LoginController$_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure14_closure81.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\Searchable$_run_closure2_closure5_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MailGrailsPlugin$_configureMailSender_closure5_closure12.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MultiValuedMap$_asList_closure2_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AuthorityController$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MailGrailsPlugin$_closure4_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\Config$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\Config$_run_closure2_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\RegisterController.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure15_closure86.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure14_closure83.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\PersonController$_closure3_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure34.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\SearchableGrailsPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure16.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\PersonController$_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HelpBalloonsGrailsPlugin.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testsectionTracking.ipr" afterPath="$PROJECT_DIR$/testsectionTracking.ipr" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\SearchableGrailsPlugin$_closure2_closure5_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure26.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure10_closure69.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\Searchable.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure13_closure76.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\TestSectionController$_paramsDateCheck_closure11.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MultiValuedMap.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure22.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\TestSectionController$_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_addControllerMethods_closure23.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\PersonController$_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AuthorityController$_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HomeController$_closure1_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure14_closure84.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure17_closure87_closure90.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\MrUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AuthorityController$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\TestSectionController$_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\LoginController$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure3_closure52.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure42.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\Searchable$_run_closure2_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\PersonController$_closure6_closure12.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure20.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\MrUtils$_attrsList_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\secure\Person$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure17.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\area\County$__clinit__closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AuthorityController$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\EmailerService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure45.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\MrUtils$_pickListClasses_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MailGrailsPlugin$_closure4_closure11.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HelpBalloonsGrailsPlugin$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure17_closure88_closure91.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure12_closure75.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\ExportGrailsPlugin$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure19.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure4_closure56.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\AppConfig$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MultiValuedMap$_toString_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AuthorityController.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\TestSectionService$_listSelected_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure18_closure93.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MailGrailsPlugin$_closure1_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\TestSectionService$_listSelected_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\RequestmapController$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\secure\Requestmap$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\secure\Person.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\AppConfigController$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MailGrailsPlugin$_configureSendMail_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\TestSectionController$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\secure\Requestmap.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\BuildConfig$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\UrlMappings$__clinit__closure1_closure2_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure4_closure54.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\LogoutController.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\TestSectionController$_paramsDateCheck_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\TestSectionController$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\TestSectionService$_listSelected_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\testsectionTracking.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\ExportGrailsPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\CaptchaController$_closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\RequestmapController$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\AppConfigController$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\TestSectionService$_listSelected_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure39.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\ExportGrailsPlugin$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MultiValuedMap$_asList_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\LoginController$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\TestSectionController$_closure3_closure12.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\Searchable$_run_closure2_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\Searchable$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\RegisterController$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure32.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\LogoutController$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\Config$_run_closure2_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure43.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MailGrailsPlugin$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\Config.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\DataSource$_run_closure3_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure40.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure2_closure49.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\area\County$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\UrlMappings$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure11.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure10_closure71.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\Searchable$_run_closure2_closure3_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure29.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\MrUtils$_attrsList_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\application.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\TestSectionService$_listSelected_closure4_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure8_closure63.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\LoginController$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\SecurityConfig$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\RequestmapController$_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\LoginController$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure14_closure79.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\RequestmapController$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure10_closure72.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\AppConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MailGrailsPlugin$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure5_closure59.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\BuildConfig$_run_closure1_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure4_closure57.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\PersonController$_buildPersonModel_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure2_closure48.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\SearchableGrailsPlugin$_closure2_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\CaptchaController.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\ExportGrailsPlugin$_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\SearchableGrailsPlugin$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\AppConfigController.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HomeController$_closure1_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure30.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HomeController$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\TestSection$__clinit__closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\ExportGrailsPlugin$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\resources$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\AppConfigController$_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\SecurityConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\RegisterController$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure27.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HelpBalloonsGrailsPlugin$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MultiValuedMap$_asList_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HelpBalloonsGrailsPlugin$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AuthorityController$_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure22_closure95.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure11_closure73.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\TestSectionController$_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure46.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\SearchableGrailsPlugin$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\DataSource.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HelpBalloonsGrailsPlugin$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\SearchableGrailsPlugin$_closure2_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\PersonController$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure7_closure62.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HelpBalloonsGrailsPlugin$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure37.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\DataSource$_run_closure3_closure6_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure3_closure51.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\TomcatGrailsPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\RequestmapController$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\BootStrap$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\secure\Authority.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\LoginController$_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\CaptchaController$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\RegisterController$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure9_closure64.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HomeController$_closure1_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure28.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\AppConfig$__clinit__closure1_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\UrlMappings.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MultiValuedMap$_asList_closure1_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\DataSource$_run_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\LoginController.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure21.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\TestSectionController.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\DataSource$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\TestSectionController$_closure3.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\SearchableGrailsPlugin$_closure2_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\AppConfigController$_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\TestSectionController$_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\PersonController$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\BuildConfig$_run_closure1_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure17_closure89.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\TestSection$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\DataSource$_run_closure3_closure4_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\AppConfigController$_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HomeController$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\LoginController$_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\LoginController$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\Config$_run_closure1_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure4_closure55.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\AppConfig$__clinit__closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\DataSource$_run_closure3_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\PersonController$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\TestSectionService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure3_closure53.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\AppConfigController$_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure12_closure74.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure33.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\ExportGrailsPlugin$_closure1_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure13.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure10_closure68.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure41.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure14.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\UrlMappings$__clinit__closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\TestSectionController$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\PersonController.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\resources.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\PersonController$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\HibernateGrailsPlugin$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure44.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\AppConfigController$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure17_closure88.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MailGrailsPlugin$_closure1_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\DataSource$_run_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure12.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\SearchableGrailsPlugin$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AuthorityController$_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\DataSource$_run_closure3_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\TestSectionController$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\Searchable$_run_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AuthorityController$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\SearchableGrailsPlugin$_closure3_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure6_closure60.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\RequestmapController.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MnRoadTagLib$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_addControllerMethods_closure25.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\us\mn\state\dot\testSectionTracking\AppConfigController$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MailGrailsPlugin$_configureMailSender_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\SearchableGrailsPlugin$_closure2_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_addControllerMethods_closure24.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure18.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\MailGrailsPlugin$_configureSendMail_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure10_closure66.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\gapps\1.3.7\tst\target\classes\AcegiGrailsPlugin$_closure1_closure35.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testsectionTracking.iws" afterPath="$PROJECT_DIR$/testsectionTracking.iws" />
+    </list>
     <ignored path="$USER_HOME_GRIFFON$/" />
+    <ignored path="$USER_HOME_GRAILS$/" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +401,7 @@
       <file leaf-file-name="HomeController.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/HomeController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="125" column="0" selection-start="4582" selection-end="4582" vertical-scroll-proportion="0.33333334">
+            <state line="125" column="0" selection-start="4582" selection-end="4582" vertical-scroll-proportion="0.39175257">
               <folding />
             </state>
           </provider>
@@ -105,7 +410,7 @@
       <file leaf-file-name="changePassword.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/home/changePassword.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -114,7 +419,7 @@
       <file leaf-file-name="PersonController.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/PersonController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="6" selection-start="940" selection-end="940" vertical-scroll-proportion="43.23077">
+            <state line="25" column="6" selection-start="940" selection-end="940" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -178,8 +483,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -198,117 +501,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testsectionTracking" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tst" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testsectionTracking" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tst" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="person" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testsectionTracking" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tst" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testsectionTracking" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tst" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testsectionTracking" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tst" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RunManager" selected="Grails.Grails:dev, run-app">
+    <configuration default="true" type="PhpRunConfigurationType" factoryName="PHP">
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="FtpUpload" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="ValidateXdebugSetup" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <module name="" />
       <setting name="vmparams" value="" />
@@ -323,6 +543,14 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="ValidateXdebugSetup" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -332,6 +560,14 @@
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit">
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
@@ -372,6 +608,15 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="FtpUpload" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="ValidateXdebugSetup" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -471,16 +716,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="22" y="13" width="1236" height="729" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39579684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32749563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27003485" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -488,8 +733,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44957265" sideWeight="0.591944" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45042735" sideWeight="0.6602452" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -511,7 +756,7 @@
     <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -545,42 +790,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/LoginController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="6" selection-start="560" selection-end="560" vertical-scroll-proportion="-8.043605">
-          <folding />
-        </state>
+        <state line="13" column="6" selection-start="560" selection-end="560" vertical-scroll-proportion="-8.043605" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="19" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/PersonController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="6" selection-start="940" selection-end="940" vertical-scroll-proportion="43.23077">
-          <folding />
-        </state>
+        <state line="8" column="19" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="66" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="28" column="66" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/home/changePassword.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/PersonController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="6" selection-start="940" selection-end="940" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/HomeController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="0" selection-start="4582" selection-end="4582" vertical-scroll-proportion="0.33333334">
+        <state line="125" column="0" selection-start="4582" selection-end="4582" vertical-scroll-proportion="0.39175257">
           <folding />
         </state>
       </provider>

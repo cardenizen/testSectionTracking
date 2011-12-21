@@ -57,8 +57,8 @@ A jndi connection depends on:
 2. A resource entry in the server context.xml file specifying the connection properties
 <Resource name="jdbc/prod_fwd" auth="Container"
               type="javax.sqlConnection.DataSource" driverClassName="oracle.jdbc.driver.OracleDriver"
-              url="jdbc:oracle:thin:@server.ad.dot.state.mn.us:1521:sid"
-              username="user" password="asdf23" maxActive="20" maxIdle="10"
+              url="jdbc:oracle:thin:@server:1521:sid"
+              username="user" password="pass" maxActive="20" maxIdle="10"
               maxWait="-1"/>
 3. A jdbc driver in the appropriate directory. (Tomcat 6.0.18: lib, Tomcat 5.5: common/lib, JBoss 4.2)
 */
@@ -66,7 +66,7 @@ A jndi connection depends on:
   }
   production {
     dataSource {
-      jndiName = "java:comp/env/jdbc/prod_mnr"
+      jndiName = "java:comp/env/jdbc/tst_mnr"
     }
   }
 }
